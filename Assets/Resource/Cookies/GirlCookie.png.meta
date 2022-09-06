@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: 7d1950ead29d6fc43b690d06996604d6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GirlCookie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5096
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0187cdb59d2492418113091d42b6507
+      internalID: 1033488707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5096
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c963820fd51f0a488ece7a8c9898344
+      internalID: 761965324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 5096
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac23c69b8cef3409beec3d171e426f
+      internalID: -983720554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_3
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 5096
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54f185ade136a4f90ab3d42b00b24d
+      internalID: 644207840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_4
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 5096
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e057f24b470144bd4b556514ea4f6
+      internalID: 1150257707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4732
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3550d9559c871439df4bc2292e97c3
+      internalID: -1634239932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4732
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1cf3e7a59b2d4c8b2d97f1270714f
+      internalID: 1560918061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 4732
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0998d1a39c00348a28cd64c922de76
+      internalID: -266436359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_8
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4732
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8204f5e7cd2efe46bfb38f1220f793a
+      internalID: 1929434729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_9
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 4732
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e523aebb5ea7d4eb2b03929fea9517
+      internalID: 1771594982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4368
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceedf1fe6db879645a468b8d33ac956c
+      internalID: 1430347880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4368
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a651c0a4f7394e952fdfcbed35fe1
+      internalID: 170416702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 4368
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740af070b815e1499a60f8f97bf5ca5
+      internalID: 1293554243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4368
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b992b023c23a049b42bb91de18eeca
+      internalID: 248655313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_14
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 4368
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df2dce515261944885b273e7e012ba3
+      internalID: 1947628844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4004
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c24a6efa60b9a84185edee55ec997bb
+      internalID: -1291427863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4004
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f7fdb15461e4418c8bd3ca85a2262
+      internalID: -1150997348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 4004
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc393ca8baee8bf4293006ccca1caa1e
+      internalID: -197708668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_18
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4004
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b474a2ad9f84428de2b5895e4250c
+      internalID: -1899547392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_19
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 4004
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f8b0e719ac384c88bb839bb9f1688
+      internalID: 1767875468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3640
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6254c9c79e1ba5a4ab3475749da8319b
+      internalID: -2129620044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3640
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25fcde47c339434288a602e6e210d89
+      internalID: -636590559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3640
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469731a6d823cf94994b1e5cc5bddf01
+      internalID: -1976883344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_23
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3640
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715b1530fbed92489323d4c07615e7d
+      internalID: 1814785908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_24
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3640
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca60a06cf506ba4f820f3067954b633
+      internalID: -1377240119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3276
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a8403cf1b08664abd71b1723796c75
+      internalID: 914357985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3276
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312bd7f60c735e74ba17425de2ceff33
+      internalID: -1003517234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3276
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562891b42ea46c74698ca3a57c75ab66
+      internalID: -2089272838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_28
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3276
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d307de2747aad4d83d52d9b8d2cc02
+      internalID: 1467133249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_29
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3276
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e105bef7d9354bb556022f78ded4b
+      internalID: 733697435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2912
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466aadd343957c247abe0b6e14243761
+      internalID: 1390276250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2912
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57415aaebf267f4885c71c8e0858a9d
+      internalID: 862448478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2912
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2740c83b48b24f8d77bdc2d40eb70
+      internalID: 726958206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_33
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2912
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a517e810ab6748b6b592bc858dad5
+      internalID: -522443690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_34
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2912
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943d4b83b97fb1408121ab8ea76dda8
+      internalID: -859265676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2548
+        width: 365
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b8096de7449043ac346c1643d2bcd
+      internalID: -1852730671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2548
+        width: 364
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6952ed504171f4bb26ed3dd51022a7
+      internalID: 1973001384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_37
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2548
+        width: 364
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09218ce1645a67848af6f48df89de9ca
+      internalID: -1975382351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_38
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2548
+        width: 364
+        height: 361
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312aea0861e05a44a8891833a30d500d
+      internalID: 598531329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_39
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2548
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f11ec1223e7d047850ce1c1b1d2c87
+      internalID: -798453273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584c84a8e25fdb47822bf833f152f02
+      internalID: 209459694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2184
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936a87a814fa2f499e2aef3d4334c3b
+      internalID: 1212925737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_42
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2184
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d8bf498e9a4e1419f513164ecaf2f7
+      internalID: -352454133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_43
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2184
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68802cf8cc7e73419eb27ef26f5a43f
+      internalID: 228236149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_44
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2184
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661de95ed32f37d45a11bf02ebb4d3a2
+      internalID: -1576048876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b659e129f61c941b00aba26add7cac
+      internalID: -1055815238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_46
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1820
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d08c4cc2fba3045a681d26c1f7cce2
+      internalID: 1657610626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_47
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1820
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19bb2395e93174d948c1d09008bb13
+      internalID: 881357408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_48
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1820
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390ecff4ef5db514fa310b527b4659c4
+      internalID: -1569355995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_49
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1820
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a964c32f23cf14e9927f88157726e6
+      internalID: 1309100848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c2c010c92ff94ca74ebb49f7868b0
+      internalID: 1825976076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1456
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec1202d7817664d8e4bd09a279e6c9
+      internalID: 539424189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1456
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84093a12b377e24389d19318574a5c6
+      internalID: -1956787190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_53
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1456
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db53cf7dce85623429061a0ed844f460
+      internalID: -1904709110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_54
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1456
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce487f40158781e40bc71d5a36835941
+      internalID: 789230406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c40e02be35ad904f84278ac0bc56c4e
+      internalID: -526935975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_56
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1092
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55aa1626532cc64d85de53c58d11559
+      internalID: 1646422816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_57
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1092
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe4bfebb7b49f41903d7e1c2840467
+      internalID: -2140832250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_58
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1092
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754983e81645b84d9daa4ac9559c904
+      internalID: 704330514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_59
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1092
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91606dc872570054c8f9a47220491604
+      internalID: -735971972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a9760e0d64d34caec9e71c7e45bbb
+      internalID: 784051161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 728
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794bcc7543491649b0a2f5cf25d9c78
+      internalID: -399026536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_62
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 728
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c2c5b97b11574eb7517c40c8d1fbb
+      internalID: -1040795134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_63
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 728
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4500b83d4efe32f4db7af91e44682d84
+      internalID: -1594497219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_64
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 728
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3c2199c03d784187643c2a8bf24e8
+      internalID: 1595470291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819423e6040f0054bb6178087898ae88
+      internalID: -2032584896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 364
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f4b41b33cf5de4784e58465e58905e
+      internalID: -1635401528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_67
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 364
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba22e2b1c2a85459b866e719495b54
+      internalID: 174428612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_68
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 364
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b6c78c47db5c439e9f034195eafbb
+      internalID: -1177593313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_69
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 364
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6397a024ba9b6494b9d4113b004a9e9f
+      internalID: 107711362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb709ce80ce13234cac23c70b8cf54a3
+      internalID: -781570501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_71
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57969e12b92ac8341b588be2474fa26b
+      internalID: 385122243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCookie_72
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 364
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51f0a6d41c44bb49a2d2f918406600a
+      internalID: 2075184623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GirlCookie_48: 1033488707
+      GirlCookie_16: 761965324
+      GirlCookie_36: -983720554
+      GirlCookie_0: 644207840
+      GirlCookie_17: 1150257707
+      GirlCookie_14: -1634239932
+      GirlCookie_54: 1560918061
+      GirlCookie_60: -266436359
+      GirlCookie_28: 1929434729
+      GirlCookie_25: 1771594982
+      GirlCookie_49: 1430347880
+      GirlCookie_20: 170416702
+      GirlCookie_1: 1293554243
+      GirlCookie_40: 248655313
+      GirlCookie_39: 1947628844
+      GirlCookie_44: -1291427863
+      GirlCookie_13: -1150997348
+      GirlCookie_12: -197708668
+      GirlCookie_45: -1899547392
+      GirlCookie_46: 1767875468
+      GirlCookie_29: -2129620044
+      GirlCookie_47: -636590559
+      GirlCookie_52: -1976883344
+      GirlCookie_10: 1814785908
+      GirlCookie_61: -1377240119
+      GirlCookie_15: 914357985
+      GirlCookie_43: -1003517234
+      GirlCookie_57: -2089272838
+      GirlCookie_7: 1467133249
+      GirlCookie_33: 733697435
+      GirlCookie_53: 1390276250
+      GirlCookie_27: 862448478
+      GirlCookie_3: 726958206
+      GirlCookie_5: -522443690
+      GirlCookie_19: -859265676
+      GirlCookie_24: -1852730671
+      GirlCookie_67: 1973001384
+      GirlCookie_71: -1975382351
+      GirlCookie_72: 598531329
+      GirlCookie_18: -798453273
+      GirlCookie_26: 209459694
+      GirlCookie_31: 1212925737
+      GirlCookie_59: -352454133
+      GirlCookie_62: 228236149
+      GirlCookie_41: -1576048876
+      GirlCookie_55: -1055815238
+      GirlCookie_22: 1657610626
+      GirlCookie_23: 881357408
+      GirlCookie_30: -1569355995
+      GirlCookie_34: 1309100848
+      GirlCookie_42: 1825976076
+      GirlCookie_9: 539424189
+      GirlCookie_38: -1956787190
+      GirlCookie_66: -1904709110
+      GirlCookie_64: 789230406
+      GirlCookie_4: -526935975
+      GirlCookie_50: 1646422816
+      GirlCookie_51: -2140832250
+      GirlCookie_11: 704330514
+      GirlCookie_70: -735971972
+      GirlCookie_65: 784051161
+      GirlCookie_58: -399026536
+      GirlCookie_37: -1040795134
+      GirlCookie_68: -1594497219
+      GirlCookie_2: 1595470291
+      GirlCookie_6: -2032584896
+      GirlCookie_21: -1635401528
+      GirlCookie_63: 174428612
+      GirlCookie_8: -1177593313
+      GirlCookie_69: 107711362
+      GirlCookie_32: -781570501
+      GirlCookie_56: 385122243
+      GirlCookie_35: 2075184623
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
